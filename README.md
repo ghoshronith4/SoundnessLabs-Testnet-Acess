@@ -70,3 +70,16 @@ To export the mnemonic phrase for a stored key pair:
 ```console
 soundness-cli export-key --name my-key
 ```
+
+<h1>Get Whitelisted for The Testnet👇😎</h1>
+To interact with the Soundness Layer server, you need to be whitelisted. Follow these steps:
+
+Follow us on X - https://x.com/SoundnessLabs
+
+Join our Discord - https://discord.gg/soundnesslabs
+
+Send your public key in the #testnet-access channel using this command format: !access <Your_Public_Key>
+
+Wait for approval—we’ll add your key to the whitelist promptly.
+
+Once approved, you can start submitting proofs by interacting with our server which is going to be live soon! 🎉
